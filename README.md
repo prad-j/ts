@@ -1,6 +1,5 @@
 # ts
 Github URL:
-
 https://prad-j.github.io/ts/
 
 netlify URL:  
